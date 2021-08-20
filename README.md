@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **GrungeKarma/GrungeKarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrungeKarma&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrungeKarma&layout=compact&theme=dark)
 <br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrungeKarma&show_icons=true&theme=slateorange)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrungeKarma&show_icons=true&theme=dark)
